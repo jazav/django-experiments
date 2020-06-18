@@ -121,6 +121,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+# for django_toolbar
 INTERNAL_IPS = [
     '127.0.0.1',
 ]
